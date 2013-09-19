@@ -20,6 +20,7 @@ namespace jogo_da_velha
         int vezes = 0;
         int i = -1;
         int sair = 0;
+        int maria = 0;
 
         int pc;
         int computador = 0;
